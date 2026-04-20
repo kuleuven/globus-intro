@@ -12,8 +12,7 @@ Select the desired operating system, and on the next page download the program.
 That page contains detailed instructions for the installation and setup.
 For the setup, take the following into account:
 
-- **Collection name:** Choosing a unique collection name will help you find it easier in the web interface later.  
-  You're not the first person calling their collection 'my laptop'.
+- **Collection name:** Choosing a meaningful collection name which will help you recognize your own collection.  
 - **High assurance:** We would recommend not to check the option 'High assurance':  
     - The Globus Subscription manager of your institution would need to approve your collection before it will become functional.  
     - High assurance limits a number of actions, some of which are part of the training.  
