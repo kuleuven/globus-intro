@@ -10,7 +10,7 @@ You can install and configure Globus Connect Personal as follows:
 Install Globus Connect Personal via the KU Leuven software center.   
 Then, skip to step 1.4 ("After installation has completed...") of the instructions on https://docs.globus.org/globus-connect-personal/install/windows/ to configure your Globus Connect Personal.
 
-### If you do not have a KU Leuven managed windows PC:  
+### If you do not have a KU Leuven managed Windows PC:  
 Go to https://www.globus.org/globus-connect-personal.   
 Select the desired operating system, and on the next page download the program.  
 That page contains detailed instructions for the installation and configuration.  
